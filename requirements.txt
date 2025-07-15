@@ -1,0 +1,6 @@
+pymupdf
+tqdm
+pandas
+rapidfuzz
+spacy
+sentence-transformers

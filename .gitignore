@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Data outputs
+/data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Python environment files
+.env
+*.env
+
+# PDF and extracted text files (if not needed in repo)
+*.pdf
+*.txt
+
+# Log files
+*.log 
